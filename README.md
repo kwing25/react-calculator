@@ -1,1 +1,1 @@
-# verbose-telegram
+# Simple React Calculator
